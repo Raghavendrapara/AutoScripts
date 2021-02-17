@@ -5,4 +5,12 @@ Since I required to download this dataset from PhysioNet website in .mat format,
 
 Website: https://archive.physionet.org/cgi-bin/atm/ATM for ecg_ptb dataset 
 
+Video for the same
+First selects the required dataset
+then selects radio button to end 
+moving on to select export as .mat
+After that the .mat link is clicked to download it
+
+https://youtu.be/AALUTdMZjVg
+
 ## Please feel free to drop suggestions and create pull requests
